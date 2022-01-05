@@ -1,0 +1,39 @@
+.wrapper {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.container{
+    width: 1200px;
+    margin: auto;
+}
+.h1 {
+    font-size: 42px;
+    line-height: 44px;
+    font-weight: 850;
+}
+.h2{
+    font-size: 35px;
+    line-height: 24px;
+    color: darkslategray;
+}
+.god{
+    font-size: 30px;
+    line-height: 43px;
+    font-weight: 900;
+}
+.git{
+    border-radius: 50px;
+}
+.spisok{
+    background-color: dimgray;
+    margin-right: 100px;
+    width: 200px;
+    height: 85px;
+    display:inline-block;
+    
+}
+.education{
+    margin-left: 400px;
+    }
+    
